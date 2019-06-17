@@ -1,5 +1,5 @@
 {
-	"name": "appFrasesDoDia",
+	"name": "app-frases-do-dia",
 	"version": "0.0.1",
 	"private": true,
 	"scripts": {
@@ -19,7 +19,8 @@
 		"eslint-plugin-react": "^7.13.0",
 		"jest": "24.8.0",
 		"prettier": "^1.18.0",
-		"react-test-renderer": "16.0.0-alpha.6"
+		"react-test-renderer": "16.0.0-alpha.6",
+		"windows-build-tools": "^5.1.0"
 	},
 	"jest": {
 		"preset": "react-native"
